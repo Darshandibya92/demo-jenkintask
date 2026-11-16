@@ -1,2 +1,2 @@
-# demo-jenkintask
-task for jenkin
+# Jenkins Demo
+My first Jenkins CI job.
